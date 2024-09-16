@@ -10,5 +10,6 @@ A team manager can use this dashboard to identify players and groups of players 
 Dashboard initially
 
 
+
 ![FO2](FO2.png) 
 Dashboard interactively changes after you make a selection.
