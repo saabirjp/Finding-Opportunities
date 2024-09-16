@@ -6,9 +6,9 @@ Whatever filters you apply to the Scatterplot change the charts on right hand si
 
 A team manager can use this dashboard to identify players and groups of players who may be valued less right now but have a good opportunity ratio to build a team.
 
-![Finding Opportunities 1](Finding Opportunities 1.png")
+![FO1](FO1.png")
 Dashboard initially
 
 
-![FO_2](FO_2.png") 
+![FO2](FO2.png") 
 Dashboard interactively changes after you make a selection.
