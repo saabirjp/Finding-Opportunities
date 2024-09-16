@@ -1,4 +1,3 @@
-Manual for using the Finding Opportunities Dashboard
 The Tableau dashboard showcases data about 16000 soccer players. The Scatterplot maps each of the players by an Opportunity ratio and current Value. You can filter the players by Opportunity, their Overall and Potential scores, Age, Nationality. You can also look up players by their Name. The color goes from blue to green as the age of the players decreases. 
 On the right-hand side, we first have an animation that shows how the grouped Value of grouped Opportunities changes from 2018 to 2022. The next Chart is a more detailed stacked chart that shows what the Value changes and the Profit are for different opportunities.
 The final chart is a heat map that displays the best opportunities by country, i.e. what countries are the best investments to consider.
